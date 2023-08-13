@@ -102,11 +102,14 @@
 
 ###
 
+
+
+
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/0xx699ns2sjhqy8ngxwg96i6p">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=0xx699ns2sjhqy8ngxwg96i6p" alt="Spotify recently played"  />
   </a>
