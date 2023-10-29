@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://github.com/rhbuckley/rhbuckley/blob/main/welcome.gif?raw=true"  />
-</div>
-
 ###
 
 <div align="center">
