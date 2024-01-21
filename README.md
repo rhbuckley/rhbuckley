@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">My name is Richard Buckley, and I am a computer science & computer engineering student at the University of Rhode Island. <br><br>- 🔭 I’m currently studying CS & CE.<br>- 📚 I'm currently learning: Dart & Flutter.<br>- ⚡ In my free time I enjoy hanging with friends and working on projects. <br>- 🧭 I also enjoy solving Project Euler problems.</p>
+<p align="left">My name is Richard Buckley, and I am a computer science & computer engineering student at the University of Rhode Island. Though this is close to a portfolio, I would really appreciate it if you checked out my <a href="https://rhbuckley.dev">website</a>, as I go in depth about some of the projects that I have worked on, and I spent a lot of time on it. <br><br>- 🔭 I’m currently studying CS & CE.<br>- 📚 I'm currently learning: Dart & Flutter.<br>- ⚡ In my free time I enjoy hanging with friends and working on projects. <br>- 🧭 I also enjoy solving Project Euler problems.</p>
 
 ###
 
@@ -95,24 +95,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-
-
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/0xx699ns2sjhqy8ngxwg96i6p">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0xx699ns2sjhqy8ngxwg96i6p&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rhbuckley/rhbuckley/output/snake.svg" alt="Snake animation" />
 
 ###
